@@ -5,4 +5,4 @@ prior to being able to open the door to the palace and win the game.
 
 Optionally you can find the five coins hidden throughout the maze.
 
-Minimum Android SDK is set to 5.1.  
+Minimum Android version is 5.1.  
