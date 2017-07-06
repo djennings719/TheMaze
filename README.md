@@ -1,6 +1,8 @@
-Daniel Jennings
 The Maze - Project 3
 
-I used the version of the Google VR SDK that was included in the download.  I am assuming that is 1.5.
+In this game you are required to find your way through the maze.  You must find the hidden key 
+prior to being able to open the door to the palace and win the game.
 
-This project was a lot of fun and I enjoyed it a lot.  
+Optionally you can find the five coins hidden throughout the maze.
+
+Minimum Android SDK is set to 5.1.  
